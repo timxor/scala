@@ -1,0 +1,29 @@
+# commands.txt
+
+# verify java version
+java -version
+
+# download scala
+brew update
+brew install scala
+
+# verify scala
+scala -version
+
+# compile scala files
+scalac File.scala
+
+# enter repl
+scala
+
+
+# other tooling
+
+## sdk
+brew install sbt
+sdk install sbt
+sbt version
+
+curl -s "https://get.sdkman.io" | bash
+source "$HOME/.sdkman/bin/sdkman-init.sh"
+sdk version
