@@ -10,6 +10,8 @@ compile: scalac HelloWorld.scala
 --------------------------------------------------------
 execute: scala HelloWorld
 --------------------------------------------------------
+timbang: clear && scala HelloWorld.scala && scala HelloWorld
+--------------------------------------------------------
 */
 
 object HelloWorld {

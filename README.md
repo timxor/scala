@@ -35,6 +35,12 @@ scalac FileName.scala
 scala FileName
 ```
 
+## timbang (Unix)
+
+```
+clear && scala HelloWorld.scala && scala HelloWorld
+```
+
 ## enter repl
 
 ```
