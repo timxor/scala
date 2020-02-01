@@ -1,8 +1,4 @@
-# scala
-
-```
-time to sky-lah
-```
+# 😁time to sky-lah ⛅️
 
 ## verify java version
 
