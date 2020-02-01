@@ -1,2 +1,7 @@
+# .gitignore
+
 # Scala class file
 *.class
+
+# sbt
+/target
