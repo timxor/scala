@@ -5,3 +5,7 @@
 
 # sbt
 /target
+
+
+# not mine
+/notMine

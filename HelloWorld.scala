@@ -15,7 +15,7 @@ timbang: clear && scala HelloWorld.scala && scala HelloWorld
 */
 
 object HelloWorld {
-  def main(args: Array[String]): Unit = {
+  def main(args: Array[String]): `Unit =` {
     //this is my first Scala program
     println("Hello, world!")
     /*
